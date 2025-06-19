@@ -32,7 +32,7 @@
         {
             "type": "Link",
             "label": "CONTACT",
-            "altText": "",
+            "altText": "contact page",
             "url": "/contact",
             "showIcon": false,
             "icon": "arrowRight",

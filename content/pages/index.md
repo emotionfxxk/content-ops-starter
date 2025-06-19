@@ -40,7 +40,9 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: >-
+      Explore our apps, meticulously crafted to streamline your mobile journey
+      and elevate everyday experiences.
     items:
       - type: FeaturedItem
         title: 500k

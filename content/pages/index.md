@@ -11,16 +11,7 @@ sections:
     text: >
       We excel in crafting premium iOS and Android applications that captivate
       users while fueling business expansion.
-    actions:
-      - label: See Tutorials
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
+    actions: []
     media:
       url: /images/main-hero.svg
       altText: Unblock your team boost your time to production preview

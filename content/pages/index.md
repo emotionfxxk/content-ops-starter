@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: WHO
+      label: WHO WE ARE
       color: text-primary
       type: Badge
     elementId: ''

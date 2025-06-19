@@ -23,7 +23,7 @@
         {
             "label": "PRODUCT",
             "altText": "Careers page",
-            "url": "/careers",
+            "url": "/product",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",

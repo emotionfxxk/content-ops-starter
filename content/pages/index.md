@@ -12,15 +12,6 @@ sections:
       We excel in crafting premium iOS and Android applications that captivate
       users while fueling business expansion.
     actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
       - label: See Tutorials
         altText: ''
         url: /

@@ -22,7 +22,7 @@
         },
         {
             "label": "PRODUCT",
-            "altText": "Careers page",
+            "altText": "app page",
             "url": "/product",
             "icon": "arrowRight",
             "iconPosition": "right",

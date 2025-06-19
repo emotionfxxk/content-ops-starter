@@ -36,7 +36,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: WHAT WE DO
+      label: MISSION
       color: text-primary
       type: Badge
     elementId: ''

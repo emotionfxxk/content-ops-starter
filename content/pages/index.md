@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: 'Your Pocket Productivity Partner: Tools That Adapt, Tasks That Flow.'
+      text: Unblock your team boost your time to production
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
